@@ -1,0 +1,3 @@
+Database Name: crud_project
+Table_name: students
+table_column: SL(PRIMERY KEY), name, roll, department, mobile, gmail.
