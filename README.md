@@ -69,7 +69,7 @@ http://localhost/Student-Management-System/index.php
 
 ## 👨‍💻 Author
 
-* **Mjo Waleullah** - [GitHub Profile](https://github.com)
+* **Mj Owaleullah** - [GitHub Profile](https://github.com/mjowaleullah)
 
 ---
 
